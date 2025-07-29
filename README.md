@@ -41,8 +41,8 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/foodie-finder.git
-cd foodie-finder
+git clone https://github.com/esmaelhussen/food-Finder.git
+cd Food-Finder
 
 # Install dependencies
 npm install
